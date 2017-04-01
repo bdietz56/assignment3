@@ -1,1 +1,28 @@
-/*styles for assignment 3*/
+body{
+  background-color: green;
+}
+
+h1 {
+    color : black;
+    text-align : center;
+    font-family: fantasy;
+    font-size: 200%
+}
+h2 {
+  color : black;
+  text-align : left;
+  font-family: fantasy;
+  font-size: 175%
+}
+
+#sectionOne{
+  width: 250px;
+  margin: 0 auto;
+}
+
+#sectionOne,div{
+  display: block;
+  background-color: gray;
+  border-style: solid;
+  border-color: black;
+}
